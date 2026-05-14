@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/macpro/Documents/gim/src/components /Users/macpro/Documents/gim/public)",
+      "Bash(cp /Users/macpro/Documents/gim/logo.jpg /Users/macpro/Documents/gim/public/logo.jpg)",
+      "Bash(cat > *)"
+    ],
+    "additionalDirectories": [
+      "/tmp"
+    ]
+  }
+}
