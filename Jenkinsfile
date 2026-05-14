@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME    = 'gim-frontend'
-        CONTAINER_NAME = 'gim-frontend-app'
-        APP_PORT      = '8080'
+        IMAGE_NAME    = 'dev'
+        CONTAINER_NAME = 'dev'
+        APP_PORT      = '9090'
     }
 
     stages {
