@@ -36,7 +36,7 @@ export default function Hero() {
               style={{ color: '#003087', animationDelay: '80ms' }}>
               Développez en{' '}
               <span style={{ color: '#F5B800' }}>local</span>{' '}
-              sans friction
+              sans friction V1
             </h1>
 
             <p className="text-gray-500 text-base lg:text-lg leading-relaxed mb-8 max-w-lg animate-slide-up"
